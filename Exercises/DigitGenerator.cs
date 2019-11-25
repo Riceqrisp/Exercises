@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-//Part for Divasibility
+//Part for Divisibility
 namespace Exercises
 {
     class DigitGenerator
